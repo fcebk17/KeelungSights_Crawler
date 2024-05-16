@@ -1,6 +1,7 @@
 package ntou.springboot.practice.exercise5.repository;
 
 import ntou.springboot.practice.exercise5.entity.Sight;
+
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -2,6 +2,7 @@ package ntou.springboot.practice.exercise5.service;
 
 import ntou.springboot.practice.exercise5.entity.Sight;
 import ntou.springboot.practice.exercise5.repository.SightRepository;
+
 import org.springframework.stereotype.Service;
 
 import java.util.List;
